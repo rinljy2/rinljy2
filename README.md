@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 It's me, Aerin.
+## This is for my CS 1200 module!
 
 <!--
 **rinljy2/rinljy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
